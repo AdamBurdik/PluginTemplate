@@ -1,0 +1,7 @@
+name: PluginTemplate
+version: '1.0'
+main: com.example.plugin.template.Plugin
+api-version: '1.21'
+prefix: PluginTemplate
+load: STARTUP
+authors: [ example_author ]
