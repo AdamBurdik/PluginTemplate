@@ -1,5 +1,5 @@
 
-# Project Title
+# Plugin Template
 
 Minecraft paper plugin template project
 
